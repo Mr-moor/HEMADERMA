@@ -1,0 +1,5 @@
+-- database: c:\Users\kind\Desktop\hemaderma\.dart_tool\sqflite_common_ffi\databases\health_records.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT * FROM personal_health_records;
